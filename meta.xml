@@ -1,0 +1,11 @@
+<meta>
+<script src="luacore_c.lua" type="client" cache="false" />
+<script src="luacore_s.lua" type="server"  />
+<file src="karizma.ttf" />
+
+<file src="imgs/button.png" />
+<file src="imgs/panel.png" />
+<file src="imgs/editbox.png" />
+<file src="imgs/top.png" />
+<file src="imgs/bar.png" />
+</meta>
